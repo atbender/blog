@@ -2,7 +2,7 @@
 title: "Xandi's blog launch!!!"
 date: 2024-03-20T10:00:00+00:00
 draft: false
-tags: ["first", "blog"]
+tags: ["first", "blog", "newtag"]
 categories: ["general"]
 ---
 
