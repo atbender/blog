@@ -2,7 +2,7 @@
 FROM klakegg/hugo:latest-ext AS builder
 
 # Install Git
-RUN apk add --no-cache git
+RUN apt-get update && apt-get install -y git && rm -rf /var/lib/apt/lists/*
 
 WORKDIR /src
 COPY . .
