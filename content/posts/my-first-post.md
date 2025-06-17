@@ -6,6 +6,6 @@ tags: ["first", "blog", "test"]
 categories: ["general"]
 ---
 
-# Welcome to My Placeholder Blog
+# Welcome to My Placeholder Blog (placeholder)
 
 This is a placeholder post until I get my stuff up and running.
